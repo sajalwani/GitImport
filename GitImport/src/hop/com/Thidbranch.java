@@ -1,6 +1,6 @@
 package hop.com;
 
-public class Thidbranch {
+public class Thidbranch extends Hello {
 
 	Thidbranch() {
 	}
