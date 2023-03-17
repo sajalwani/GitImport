@@ -1,9 +1,8 @@
 package hop.com;
 
 public class Thidbranch {
-	
-	Thidbranch(){
-		
+
+	Thidbranch() {
 	}
 
 	public void third_branch() {
